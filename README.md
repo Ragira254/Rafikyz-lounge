@@ -8,7 +8,7 @@ body{margin:0;background:#000;color:gold;font-family:Arial;text-align:center;}
 header{padding:40px;font-size:32px;font-weight:bold;}
 a.button{display:block;margin:20px auto;padding:15px 25px;border:2px solid gold;color:gold;text-decoration:none;width:250px;border-radius:8px;}
 .logo{margin-top:20px;}
-</style>
+<style>
 </head>
 <body>
 <header>Rafikyz The Lounge</header>
